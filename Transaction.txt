@@ -1,0 +1,79 @@
+
+*****************************************************************************************************************************
+
+First name: Paunchici
+Last name: Andrei
+Creditcard number: 0987654321123456
+Creditcard PIN: 1234
+Billing address: Brasov,str.Muresului
+Phone number: 0730862974
+Object bought: House
+Object ownership: Owner
+House bought: Single pen
+Location: Brasov
+Total paid: 18900$
+Username: -*NOT A USER*- 
+*****************************************************************************************************************************
+
+*****************************************************************************************************************************
+
+First name: Paunchici
+Last name: Andrei
+Creditcard number: 0987654321123456
+Creditcard PIN: 1234
+Billing address: Brasov,str.Muresului
+Phone number: 0730862974
+Phone number: nr.3,bl.24,sc.E,ap.24
+Land bought: 123 ac
+Location: Brasov
+Land type: Urban
+Total paid: 570843$
+Username: -*NOT A USER*- 
+*****************************************************************************************************************************
+
+*****************************************************************************************************************************
+
+First name: Walker
+Last name: Joe
+Creditcard number: 9876543212309875
+Creditcard PIN: 7657
+Billing address: city: Cluj,str.Morat nr.4
+Phone number: 07543455677
+Land bought: 3 ac
+Location: Cluj
+Land type: Urban
+Total paid: 27846$
+Username: -*NOT A USER*- 
+*****************************************************************************************************************************
+
+*****************************************************************************************************************************
+
+First name: Ion
+Last name: Andrei
+Creditcard number: 9876543215467831
+Creditcard PIN: 7643
+Billing address: city: Timisoara,str.Aurel nr.54
+Phone number: 067535365
+Object bought: House
+Object ownership: Owner
+House bought: Duplex
+Location: Timis
+Total paid: 56700$
+Username: -*NOT A USER*- 
+*****************************************************************************************************************************
+
+*****************************************************************************************************************************
+
+First name: fgyuyfvuy
+Last name: uyfvuyfuy
+Creditcard number: 0987654321123456
+Creditcard PIN: 3345
+Billing address: city: Ariujd, str.decfr ,nr.6
+Phone number: 678567576778
+Object bought: House
+Object ownership: Owner
+House bought: Duplex
+Location: Cluj
+Total paid: 56700$
+Username: Andrei112
+*****************************************************************************************************************************

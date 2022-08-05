@@ -1,0 +1,15 @@
+
+Seller: Radu Stefan
+House type: Single-family
+City: Brasov
+Number of rooms: 2
+
+Description:
+A nice house for a family of three with 2 rooms, 1 livingroom and a nice porch and neighbourhood.
+Price: 84000$
+
+Contacts
+Telephone: 0743242525
+E-mail: radustefan14@yahoo.com
+*****************************************************************************************************************************
+

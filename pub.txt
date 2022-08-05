@@ -1,0 +1,113 @@
+
+Seller: Paunchici Andrei
+House type: Single
+City: Brasov
+Number of rooms: 1
+
+Description:
+A small appartment in the midlle of the city Brasov with 1 room ,1 kitchen,1 bathroom, 1 livingroom and a balcony.
+Price: 31500$
+
+Contacts
+Telephone: 0730862974
+E-mail: carefreeluck@yahoo.com
+*****************************************************************************************************************************
+
+Seller: Radu Stefan
+House type: Bing
+City: Brasov
+Number of rooms: 2
+
+Description:
+A house outisde the city has 2 bathrooms and a nice porch.
+Price: 84000$
+
+Contacts
+Telephone: 07342385234
+E-mail: radu_stefan2134@yahoo.com
+*****************************************************************************************************************************
+
+Seller: Ahmed Al-hadid
+House type: Multifamily
+City: Brasov
+Number of rooms: 3
+
+Description:
+A house for 2 familys of 3 with 3 rooms 1 livingroom and a garden for kids to play.
+Price: 210000$
+
+Contacts
+Telephone: 049127346932
+E-mail: ahmed12332435@yahoo.com
+*****************************************************************************************************************************
+
+
+Seller: Charles Darwin
+House type: Log
+City: Brasov
+Number of rooms: 3
+
+Description:
+!I am looking to rent the house not sell it!A quite marvelous wooden house in the middle of mother nature with 3 rooms, 1 livingroom, 2 bathrooms and a stunning view.
+Price: 735$
+
+Contacts
+Telephone: /month
+E-mail: c.darwin@yahoo.com
+*****************************************************************************************************************************
+
+Seller: Boby Cutit
+House type: Duplex
+City: Brasov
+Number of rooms: 4
+
+Description:
+A casa with four camere , for two famili very good for puradei.
+Rent: 1050$/month
+
+Contacts
+Telephone: 0731267371
+E-mail: tetai123@yahoo.ro
+*****************************************************************************************************************************
+
+Seller: Bill Gates
+House type: Mansion
+City: Brasov
+Number of rooms: 5+
+
+Description:
+That mansion was my home for decade upon decade, and a small world unto itself. Yet when everyone turns their head to watch you pass, when your name is on a million lips, it is your world and that amount of space is necessary because its all the space you have to exist as the real and vulnerable version of yourself.
+Price: 1050000$
+
+Contacts
+Telephone: 0210238043
+E-mail: bill.gates@yahoo.com
+*****************************************************************************************************************************
+
+Seller: Giani Pletosu
+House type: Palat
+City: Brasov
+Number of rooms: 5+
+
+Description:
+Are 7 turnulete sa faci furori la fete crete
+Rent: 105000$/month
+
+Contacts
+Telephone: 0773962894
+E-mail: giani.pletosu@hotmail.com
+*****************************************************************************************************************************
+
+Seller: Jon
+House type: Apartament
+City: Brasov
+Number of rooms: 1
+
+Description:
+good
+Price: 12600$
+
+Contacts
+Telephone: 0978687687878
+E-mail:UWU@hotmai.kpop
+*****************************************************************************************************************************

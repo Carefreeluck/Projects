@@ -1,0 +1,29 @@
+
+Seller: Charles Darwin
+House type: Loghouse
+City: Brasov
+Number of rooms: 3
+
+Description:
+!I am looking to rent the house not sell it!A quite marvelous wooden house in the middle of mother nature with 3 rooms, 1 livingroom, 2 bathrooms and a stunning view.
+Price: 735$
+
+Contacts
+Telephone:
+E-mail: c.darwin@yahoo.com
+*****************************************************************************************************************************
+
+Seller: Ahmed Al-hadid
+House type: Multifamily
+City: Brasov
+Number of rooms: 3
+
+Description:
+A house for 2 familys of 3 with 3 rooms 1 livingroom and a garden for kids to play.
+Price: 210000$
+
+Contacts
+Telephone: 049127346932
+E-mail: ahmed12332435@yahoo.com
+*****************************************************************************************************************************
+
